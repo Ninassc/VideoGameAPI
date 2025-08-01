@@ -1,0 +1,111 @@
+[
+  {
+    "ContainingType": "VideoGameApi.Controllers.VideoGameController",
+    "Method": "DeleteVideoGme",
+    "RelativePath": "api/VideoGame/Delete{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "VideoGameApi.Controllers.VideoGameController",
+    "Method": "IncludVideoGame",
+    "RelativePath": "api/VideoGame/Includ",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "myGame",
+        "Type": "VideoGameApi.VideoGame",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "VideoGameApi.VideoGame",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VideoGameApi.Controllers.VideoGameController",
+    "Method": "GetVideoGames",
+    "RelativePath": "api/VideoGame/List",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[VideoGameApi.VideoGame, VideoGameApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VideoGameApi.Controllers.VideoGameController",
+    "Method": "GetVideoGameById",
+    "RelativePath": "api/VideoGame/ListId/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "VideoGameApi.VideoGame",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VideoGameApi.Controllers.VideoGameController",
+    "Method": "ModifyVideoGame",
+    "RelativePath": "api/VideoGame/Modify/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateGame",
+        "Type": "VideoGameApi.VideoGame",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
