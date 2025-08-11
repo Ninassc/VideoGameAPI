@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ninas\\OneDrive\\Área de Trabalho\\VideoGame\\VideoGameApi\\VideoGameApi.csproj": {}
+    "D:\\Usuario\\nina\\OneDrive\\Área de Trabalho\\VideoGame\\VideoGameApi\\VideoGameApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ninas\\OneDrive\\Área de Trabalho\\VideoGame\\VideoGameApi\\VideoGameApi.csproj": {
+    "D:\\Usuario\\nina\\OneDrive\\Área de Trabalho\\VideoGame\\VideoGameApi\\VideoGameApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ninas\\OneDrive\\Área de Trabalho\\VideoGame\\VideoGameApi\\VideoGameApi.csproj",
+        "projectUniqueName": "D:\\Usuario\\nina\\OneDrive\\Área de Trabalho\\VideoGame\\VideoGameApi\\VideoGameApi.csproj",
         "projectName": "VideoGameApi",
-        "projectPath": "C:\\Users\\ninas\\OneDrive\\Área de Trabalho\\VideoGame\\VideoGameApi\\VideoGameApi.csproj",
+        "projectPath": "D:\\Usuario\\nina\\OneDrive\\Área de Trabalho\\VideoGame\\VideoGameApi\\VideoGameApi.csproj",
         "packagesPath": "C:\\Users\\ninas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ninas\\OneDrive\\Área de Trabalho\\VideoGame\\VideoGameApi\\obj\\",
+        "outputPath": "D:\\Usuario\\nina\\OneDrive\\Área de Trabalho\\VideoGame\\VideoGameApi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ninas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ninas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +71,7 @@
             },
             "Scalar.AspNetCore": {
               "target": "Package",
-              "version": "[2.6.7, )"
+              "version": "[2.6.8, )"
             }
           },
           "imports": [
@@ -86,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

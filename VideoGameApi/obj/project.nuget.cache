@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XNQhyRNOdmE=",
+  "dgSpecHash": "xpaiMeGOoDI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ninas\\OneDrive\\Área de Trabalho\\VideoGame\\VideoGameApi\\VideoGameApi.csproj",
+  "projectFilePath": "D:\\Usuario\\nina\\OneDrive\\Área de Trabalho\\VideoGame\\VideoGameApi\\VideoGameApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ninas\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ninas\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -51,7 +51,7 @@
     "C:\\Users\\ninas\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\ninas\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\ninas\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
-    "C:\\Users\\ninas\\.nuget\\packages\\scalar.aspnetcore\\2.6.7\\scalar.aspnetcore.2.6.7.nupkg.sha512",
+    "C:\\Users\\ninas\\.nuget\\packages\\scalar.aspnetcore\\2.6.8\\scalar.aspnetcore.2.6.8.nupkg.sha512",
     "C:\\Users\\ninas\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
     "C:\\Users\\ninas\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
     "C:\\Users\\ninas\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",

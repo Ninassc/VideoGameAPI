@@ -12,7 +12,7 @@
           "Microsoft.EntityFrameworkCore": "9.0.7",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.7",
           "Microsoft.EntityFrameworkCore.Tools": "9.0.7",
-          "Scalar.AspNetCore": "2.6.7"
+          "Scalar.AspNetCore": "2.6.8"
         },
         "runtime": {
           "VideoGameApi.dll": {}
@@ -759,11 +759,11 @@
           }
         }
       },
-      "Scalar.AspNetCore/2.6.7": {
+      "Scalar.AspNetCore/2.6.8": {
         "runtime": {
           "lib/net9.0/Scalar.AspNetCore.dll": {
-            "assemblyVersion": "2.6.7.0",
-            "fileVersion": "2.6.7.0"
+            "assemblyVersion": "2.6.8.0",
+            "fileVersion": "2.6.8.0"
           }
         }
       },
@@ -1360,12 +1360,12 @@
       "path": "mono.texttemplating/3.0.0",
       "hashPath": "mono.texttemplating.3.0.0.nupkg.sha512"
     },
-    "Scalar.AspNetCore/2.6.7": {
+    "Scalar.AspNetCore/2.6.8": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Fi9zutnUQQVDui4+VmwLiJMlaXCmq/4wlnoOFG87XwBAvO7D+KIrajKaMeAzpA1eaR9ablZmulnyFzDSBz7M6A==",
-      "path": "scalar.aspnetcore/2.6.7",
-      "hashPath": "scalar.aspnetcore.2.6.7.nupkg.sha512"
+      "sha512": "sha512-2wwNX51ofrsgLNxe6n2bIuLEFcbVqp/le13nRaAs1mAuracL2tbTdIcgT89o3NmtvVa0hfBdxH5vAi1hwATqTw==",
+      "path": "scalar.aspnetcore/2.6.8",
+      "hashPath": "scalar.aspnetcore.2.6.8.nupkg.sha512"
     },
     "System.ClientModel/1.0.0": {
       "type": "package",

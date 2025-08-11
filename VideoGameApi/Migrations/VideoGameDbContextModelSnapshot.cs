@@ -44,6 +44,32 @@ namespace VideoGameApi.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("VideoGames");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Developer = "Insomniac Games",
+                            Platform = "PS5",
+                            Publisher = "Sony Interactive Entertainment",
+                            Title = "Spider-Man 2"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Developer = "Epic Games",
+                            Platform = "Computer",
+                            Publisher = "Epic Games",
+                            Title = "Fortnite"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Developer = "CD Projekt Red",
+                            Platform = "PC",
+                            Publisher = "CD Projekt",
+                            Title = "Cyberpunk 2077"
+                        });
                 });
 #pragma warning restore 612, 618
         }
